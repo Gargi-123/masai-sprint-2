@@ -1,0 +1,67 @@
+img{
+    height:100px;
+    width:100px;
+}
+#main-div{
+    border: 1px solid blue;
+    height: 1000px;
+    width: 1300px;
+}
+
+#address-div{
+    height: 300px;
+    width:400px;
+    margin: 5px;
+    float: left;
+}
+#invoice-div{
+    height: 300px;
+    width:400px;
+    margin-left: 450px;
+    float: left;
+}
+#invoice-info{
+    border: 1px solid grey;
+    height: 100px;
+    width:100px;
+    margin-left: 300px;
+    margin-top: 10px;
+}
+#logout-div{
+    height: 50px;
+    width: 200px;
+    margin-left: 300px;
+
+}
+#bill-div{
+    border: 1px solid black;
+    height: 600px;
+    width:1000px;
+    margin-top: 300px;
+    margin-left: 5px;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+
+  button{
+    background-color:#1c8abd;
+    width: 50%;
+    padding: 10px;
+    border-radius: 20px;
+    color: white;
+    font-size: 15px;
+
+}
